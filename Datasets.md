@@ -19,13 +19,13 @@
 ## Environmental sounds
 ### Anomaly detection
 
-* **MIMII**: https://zenodo.org/record/3384388#.XtCGMnVKg5k
-* **ToyADMOS**: https://zenodo.org/record/3351307#.XtCFynVKg5l
+* [**MIMII**](https://zenodo.org/record/3384388#.XtCGMnVKg5k)
+* [**ToyADMOS**](https://zenodo.org/record/3351307#.XtCFynVKg5l)
 
 ### Noises
 
-* **DEMAND**: https://www.kaggle.com/aanhari/demand-dataset
-* **QUT-NOISE**: https://github.com/qutsaivt/QUT-NOISE
+* [**DEMAND**](https://www.kaggle.com/aanhari/demand-dataset)
+* [**QUT-NOISE**](https://github.com/qutsaivt/QUT-NOISE)
 
 
 
