@@ -7,10 +7,10 @@
 
 ## Music
 ### Cover identification
-* **SHS100K**
-* **YouTube350**
-* **Covers80**
-* **Mazurkas**
+* **Covers80**: https://labrosa.ee.columbia.edu/projects/coversongs/covers80/
+* **Mazurkas**: 
+* [**SHS100K**](https://github.com/NovaFrost/SHS100K)
+* **YouTube350**: 
 
 ### Tagging
 * **Magna tag a tune**
@@ -18,12 +18,13 @@
 ## Environmental sounds
 ### Anomaly detection
 
-* **ToyADMOS**: https://zenodo.org/record/3351307#.XtCFynVKg5l
 * **MIMII**: https://zenodo.org/record/3384388#.XtCGMnVKg5k
+* **ToyADMOS**: https://zenodo.org/record/3351307#.XtCFynVKg5l
 
 ### Noises
 
-* **QUT-NOISE**: https://github.com/qutsaivt/QUT-NOISE
 * **DEMAND**: https://www.kaggle.com/aanhari/demand-dataset
+* **QUT-NOISE**: https://github.com/qutsaivt/QUT-NOISE
+
 
 
