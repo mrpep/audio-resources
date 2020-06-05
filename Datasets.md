@@ -15,7 +15,7 @@
 * [**YouTube350**](https://sites.google.com/site/ismir2015shapelets/data)
 
 ### Tagging
-* **Magna tag a tune**
+* [**Magna tag a tune**](http://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset)
 
 ## Environmental sounds
 ### Anomaly detection
