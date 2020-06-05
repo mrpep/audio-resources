@@ -9,7 +9,8 @@
 ### Cover identification
 * [**Covers80**](https://labrosa.ee.columbia.edu/projects/coversongs/covers80/)
 * [**Covers1000**](http://www.covers1000.net/)
-* **Mazurkas**
+* [**Mazurkas**](http://www.mazurka.org.uk/)
+* [**Second Hand Songs**](https://secondhandsongs.com/)
 * [**SHS100K**](https://github.com/NovaFrost/SHS100K)
 * [**YouTube350**](https://sites.google.com/site/ismir2015shapelets/data)
 
