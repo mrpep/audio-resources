@@ -1,16 +1,17 @@
 ## Speech
 ### Speech recognition
-* **Common Voice**: https://voice.mozilla.org/en/datasets
+* [**Common Voice**](https://voice.mozilla.org/en/datasets)
 
 ### Speech emotion recognition
-* **MELD**: https://affective-meld.github.io/
+* [**MELD**](https://affective-meld.github.io/)
 
 ## Music
 ### Cover identification
-* **Covers80**: https://labrosa.ee.columbia.edu/projects/coversongs/covers80/
-* **Mazurkas**: 
+* [**Covers80**](https://labrosa.ee.columbia.edu/projects/coversongs/covers80/)
+* [**Covers1000**](http://www.covers1000.net/)
+* **Mazurkas**
 * [**SHS100K**](https://github.com/NovaFrost/SHS100K)
-* **YouTube350**: 
+* [**YouTube350**](https://sites.google.com/site/ismir2015shapelets/data)
 
 ### Tagging
 * **Magna tag a tune**
