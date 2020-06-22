@@ -28,5 +28,8 @@
 * [**DEMAND**](https://www.kaggle.com/aanhari/demand-dataset)
 * [**QUT-NOISE**](https://github.com/qutsaivt/QUT-NOISE)
 
+### Events
+* [**URBANSOUND-8K**](https://urbansounddataset.weebly.com/urbansound8k.html)
 
+### Scenes
 
