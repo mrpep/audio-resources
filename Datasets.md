@@ -32,4 +32,6 @@
 * [**URBANSOUND-8K**](https://urbansounddataset.weebly.com/urbansound8k.html)
 
 ### Scenes
+* [**SINS**]
+** [Subset for DCASE2018-Task5](https://zenodo.org/record/1247102#.XxIhlHVKjs0)
 
