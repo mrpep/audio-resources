@@ -33,5 +33,5 @@
 
 ### Scenes
 * [**SINS**]
-** [Subset for DCASE2018-Task5](https://zenodo.org/record/1247102#.XxIhlHVKjs0)
+- [Subset for DCASE2018-Task5](https://zenodo.org/record/1247102#.XxIhlHVKjs0)
 
