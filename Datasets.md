@@ -45,6 +45,6 @@
   - [Audio](https://archive.org/download/warblrb10k_public/warblrb10k_public_wav.zip)
   - [Labels](https://ndownloader.figshare.com/files/10853306)
 * [**BirdVox Datasets**](https://wp.nyu.edu/birdvox/codedata/)
-* [**DCASE2018-Task3 EvalSet](https://zenodo.org/record/1298604#.XxIvs3VKjs0)
+* [**DCASE2018-Task3 EvalSet**](https://zenodo.org/record/1298604#.XxIvs3VKjs0)
 
 
