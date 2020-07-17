@@ -33,6 +33,6 @@
 
 ### Scenes
 #### Domestic
-* [**SINS**](https://zenodo.org/record/2555141#.XxIll3VKjs0)
+* [**SINS**](https://github.com/KULeuvenADVISE/SINS_database)
   - [Subset for DCASE2018-Task5](https://zenodo.org/record/1247102#.XxIhlHVKjs0)
 
