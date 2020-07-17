@@ -34,5 +34,17 @@
 ### Scenes
 #### Domestic
 * [**SINS**](https://github.com/KULeuvenADVISE/SINS_database)
-  - [Subset for DCASE2018-Task5](https://zenodo.org/record/1247102#.XxIhlHVKjs0)
+  - [Dev-set for DCASE2018-Task5](https://zenodo.org/record/1247102#.XxIhlHVKjs0)
+  - [Eval-set for DCASE2018-Task5](https://zenodo.org/record/1964758)
+  
+#### Birds
+* **freefield1010**
+  - [Audio](https://archive.org/download/ff1010bird/ff1010bird_wav.zip)
+  - [Labels](https://ndownloader.figshare.com/files/10853303)
+* **warblrb10k**
+  - [Audio](https://archive.org/download/warblrb10k_public/warblrb10k_public_wav.zip)
+  - [Labels](https://ndownloader.figshare.com/files/10853306)
+* [**BirdVox Datasets**](https://wp.nyu.edu/birdvox/codedata/)
+* [**DCASE2018-Task3 EvalSet](https://zenodo.org/record/1298604#.XxIvs3VKjs0)
+
 
