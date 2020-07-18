@@ -31,7 +31,7 @@
 ### Events
 * [**URBANSOUND-8K**](https://urbansounddataset.weebly.com/urbansound8k.html)
 #### Mixtures
-* [**Free Universal Source Separation (FUSS)**](https://zenodo.org/record/3694384#.XxJP8XVKjs0)
+* [**Free Universal Sound Separation (FUSS)**](https://zenodo.org/record/3694384#.XxJP8XVKjs0)
 
 ### Scenes
 #### Domestic
