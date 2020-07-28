@@ -34,6 +34,7 @@
 * [**QUT-NOISE**](https://github.com/qutsaivt/QUT-NOISE)
 
 ### Events
+* [**DESED**](https://project.inria.fr/desed/)
 * [**URBANSOUND-8K**](https://urbansounddataset.weebly.com/urbansound8k.html)
 #### Mixtures
 * [**Free Universal Sound Separation (FUSS)**](https://zenodo.org/record/3694384#.XxJP8XVKjs0)
