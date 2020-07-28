@@ -5,6 +5,11 @@
 ### Speech emotion recognition
 * [**MELD**](https://affective-meld.github.io/)
 
+### Analysis
+* [**Spanish Confusions Corpus**](http://laslab.org/resources/confusions/)
+* [**Atlas interactivo de la entonación del español**](http://prosodia.upf.edu/atlasentonacion/presentacio/presentacio2.html)
+* [**Hamburg Corpus of Argentinean Spanish (HaCASpa)**](https://corpora.uni-hamburg.de/hzsk/de/islandora/object/spoken-corpus:hacaspa#corpus-description)
+
 ## Music
 ### Cover identification
 * [**Covers80**](https://labrosa.ee.columbia.edu/projects/coversongs/covers80/)
