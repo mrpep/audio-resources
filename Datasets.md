@@ -34,6 +34,7 @@
 * [**QUT-NOISE**](https://github.com/qutsaivt/QUT-NOISE)
 
 ### Events
+* [**FSDKaggle2019**](https://zenodo.org/record/3612637#.XyCUknVKjs0)
 * [**DESED**](https://project.inria.fr/desed/)
 * [**URBANSOUND-8K**](https://urbansounddataset.weebly.com/urbansound8k.html)
 #### Mixtures
