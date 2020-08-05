@@ -26,6 +26,10 @@
 * [**Magna tag a tune**](http://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset)
 
 ## Environmental sounds
+### Ambiences
+
+* [**SoundPrivacy**](http://soundprivacy.aalto.fi/)
+
 ### Anomaly detection
 
 * [**MIMII**](https://zenodo.org/record/3384388#.XtCGMnVKg5k)
