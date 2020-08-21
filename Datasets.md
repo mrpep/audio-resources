@@ -13,6 +13,9 @@
 ### Speech Separation
 * [**LibriMix**](https://github.com/JorisCos/LibriMix)
 
+### Pathologies
+* [**Saarbruecken Voice Database**](http://www.stimmdatenbank.coli.uni-saarland.de/help_en.php4)
+
 ## Music
 ### Cover identification
 * [**Covers80**](https://labrosa.ee.columbia.edu/projects/coversongs/covers80/)
