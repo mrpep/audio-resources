@@ -1,6 +1,7 @@
 ## Speech
 ### Speech recognition
 * [**Common Voice**](https://voice.mozilla.org/en/datasets)
+* [**Arabic speech corpus**](http://en.arabicspeechcorpus.com/)
 
 ### Speech emotion recognition
 * [**MELD**](https://affective-meld.github.io/)
