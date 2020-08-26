@@ -48,6 +48,8 @@
 * [**FSDKaggle2019**](https://zenodo.org/record/3612637#.XyCUknVKjs0)
 * [**DESED**](https://project.inria.fr/desed/)
 * [**URBANSOUND-8K**](https://urbansounddataset.weebly.com/urbansound8k.html)
+* [**ESC-50**](https://github.com/karolpiczak/ESC-50)
+
 #### Mixtures
 * [**Free Universal Sound Separation (FUSS)**](https://zenodo.org/record/3694384#.XxJP8XVKjs0)
 
