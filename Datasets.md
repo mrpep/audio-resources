@@ -49,6 +49,7 @@
 * [**DESED**](https://project.inria.fr/desed/)
 * [**URBANSOUND-8K**](https://urbansounddataset.weebly.com/urbansound8k.html)
 * [**ESC-50**](https://github.com/karolpiczak/ESC-50)
+* [**ESC-US**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDEPUT)
 
 #### Mixtures
 * [**Free Universal Sound Separation (FUSS)**](https://zenodo.org/record/3694384#.XxJP8XVKjs0)
