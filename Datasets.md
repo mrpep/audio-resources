@@ -30,6 +30,9 @@
 ### Tagging
 * [**Magna tag a tune**](http://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset)
 
+### Annotation
+* [**GuitarSet**](https://guitarset.weebly.com/)
+
 ## Environmental sounds
 ### Ambiences
 
