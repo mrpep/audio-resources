@@ -9,3 +9,7 @@
 
 ### **Melspectrogram to wave**
 * [Waveglow](https://github.com/NVIDIA/waveglow)
+
+## **Representation learning**
+### Speech
+* [S3PRL](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) 
