@@ -49,6 +49,7 @@
 * [**QUT-NOISE**](https://github.com/qutsaivt/QUT-NOISE)
 
 ### Events
+* [**Audioset**](https://research.google.com/audioset/download.html)
 * [**FSDKaggle2019**](https://zenodo.org/record/3612637#.XyCUknVKjs0)
 * [**FSD-50K**](https://zenodo.org/record/4060432#.X3t-kXVKiV4)
 * [**DESED**](https://project.inria.fr/desed/)
