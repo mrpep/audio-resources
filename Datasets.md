@@ -5,7 +5,10 @@
 * [**Spanish corpus**](http://www.ciempiess.org/downloads)
 
 ### Speech emotion recognition
+* [**IEMOCAP**](https://sail.usc.edu/iemocap/)
 * [**MELD**](https://affective-meld.github.io/)
+* [**RAVDESS**](https://zenodo.org/record/1188976#.X3-cZnVKiV4)
+* [**MSP-PODCAST**](https://ecs.utdallas.edu/research/researchlabs/msp-lab/MSP-Podcast.html)
 
 ### Analysis
 * [**Spanish Confusions Corpus**](http://laslab.org/resources/confusions/)
@@ -32,11 +35,16 @@
 
 ### Annotation
 * [**GuitarSet**](https://guitarset.weebly.com/)
+* [**MAESTRO**](https://magenta.tensorflow.org/datasets/maestro)
+* [**GROOVE**](https://magenta.tensorflow.org/datasets/groove)
 
 ### Source separation
 * [**MUSDB18**](https://sigsep.github.io/datasets/musdb.html)
 * [**DSD100**](https://sigsep.github.io/datasets/dsd100.html)
 * [**Mixing Secrets**](https://www.cambridge-mt.com/ms/mtk/)
+
+### Instruments
+* [**NSYNTH**](https://magenta.tensorflow.org/nsynth)
 
 ## Environmental sounds
 ### Ambiences
