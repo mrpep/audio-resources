@@ -47,6 +47,7 @@
 
 * [**DEMAND**](https://www.kaggle.com/aanhari/demand-dataset)
 * [**QUT-NOISE**](https://github.com/qutsaivt/QUT-NOISE)
+* [**WHAM!**](http://wham.whisper.ai/)
 
 ### Events
 * [**Audioset**](https://research.google.com/audioset/download.html)
