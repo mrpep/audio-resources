@@ -77,4 +77,7 @@
 * [**BirdVox Datasets**](https://wp.nyu.edu/birdvox/codedata/)
 * [**DCASE2018-Task3 EvalSet**](https://zenodo.org/record/1298604#.XxIvs3VKjs0)
 
+## Other
+* [**Acoustic materials**](https://www.acousticsphere.com/acoustic-material-properties/?filters=insulation)
+
 
