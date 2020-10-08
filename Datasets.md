@@ -3,6 +3,7 @@
 * [**Common Voice**](https://voice.mozilla.org/en/datasets)
 * [**Arabic speech corpus**](http://en.arabicspeechcorpus.com/)
 * [**Spanish corpus**](http://www.ciempiess.org/downloads)
+* [**Google Speech Commands**](https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html)
 
 ### Speech emotion recognition
 * [**IEMOCAP**](https://sail.usc.edu/iemocap/)
@@ -20,6 +21,9 @@
 
 ### Pathologies
 * [**Saarbruecken Voice Database**](http://www.stimmdatenbank.coli.uni-saarland.de/help_en.php4)
+
+### Speaker identification
+* [**Voxceleb**](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
 
 ## Music
 ### Cover identification
