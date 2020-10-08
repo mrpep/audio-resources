@@ -33,6 +33,11 @@
 ### Annotation
 * [**GuitarSet**](https://guitarset.weebly.com/)
 
+### Source separation
+* [**MUSDB18**](https://sigsep.github.io/datasets/musdb.html)
+* [**DSD100**](https://sigsep.github.io/datasets/dsd100.html)
+* [**Mixing Secrets**](https://www.cambridge-mt.com/ms/mtk/)
+
 ## Environmental sounds
 ### Ambiences
 
