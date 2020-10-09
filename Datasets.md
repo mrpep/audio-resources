@@ -53,6 +53,9 @@
 ### Tempo estimation
 * [**GiantSteps**](https://github.com/GiantSteps/giantsteps-tempo-dataset)
 
+### Songs/Analysis
+* [**Free music archive (FMA)**](https://github.com/mdeff/fma)
+
 ## Environmental sounds
 ### Ambiences
 
