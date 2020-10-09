@@ -50,6 +50,9 @@
 ### Instruments
 * [**NSYNTH**](https://magenta.tensorflow.org/nsynth)
 
+### Tempo estimation
+* [**GiantSteps**](https://github.com/GiantSteps/giantsteps-tempo-dataset)
+
 ## Environmental sounds
 ### Ambiences
 
