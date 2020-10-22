@@ -66,6 +66,10 @@
 * [**MIMII**](https://zenodo.org/record/3384388#.XtCGMnVKg5k)
 * [**ToyADMOS**](https://zenodo.org/record/3351307#.XtCFynVKg5l)
 
+### Room impulse responses
+
+* [**BIRD**](https://github.com/FrancoisGrondin/BIRD)
+
 ### Noises
 
 * [**DEMAND**](https://www.kaggle.com/aanhari/demand-dataset)
