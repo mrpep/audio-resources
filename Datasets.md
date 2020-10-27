@@ -37,10 +37,11 @@
 ### Tagging
 * [**Magna tag a tune**](http://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset)
 
-### Annotation
+### Annotation (MIDI+Audio)
 * [**GuitarSet**](https://guitarset.weebly.com/)
 * [**MAESTRO**](https://magenta.tensorflow.org/datasets/maestro)
 * [**GROOVE**](https://magenta.tensorflow.org/datasets/groove)
+* [**GiantMIDI-Piano**](https://github.com/bytedance/GiantMIDI-Piano)
 
 ### Source separation
 * [**MUSDB18**](https://sigsep.github.io/datasets/musdb.html)
