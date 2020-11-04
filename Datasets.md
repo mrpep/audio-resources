@@ -25,6 +25,9 @@
 ### Speaker identification
 * [**Voxceleb**](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
 
+### Language identification
+* (https://www.kaggle.com/toponowicz/spoken-language-identification)
+
 ## Music
 ### Cover identification
 * [**Covers80**](https://labrosa.ee.columbia.edu/projects/coversongs/covers80/)
@@ -85,6 +88,7 @@
 * [**URBANSOUND-8K**](https://urbansounddataset.weebly.com/urbansound8k.html)
 * [**ESC-50**](https://github.com/karolpiczak/ESC-50)
 * [**ESC-US**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDEPUT)
+* [**MUSAN**](https://www.openslr.org/17/) Differentiate music, speech and noise
 
 #### Mixtures
 * [**Free Universal Sound Separation (FUSS)**](https://zenodo.org/record/3694384#.XxJP8XVKjs0)
