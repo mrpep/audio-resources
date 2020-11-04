@@ -26,7 +26,7 @@
 * [**Voxceleb**](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
 
 ### Language identification
-* (https://www.kaggle.com/toponowicz/spoken-language-identification)
+* https://www.kaggle.com/toponowicz/spoken-language-identification
 
 ## Music
 ### Cover identification
