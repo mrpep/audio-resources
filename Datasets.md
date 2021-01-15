@@ -4,12 +4,15 @@
 * [**Arabic speech corpus**](http://en.arabicspeechcorpus.com/)
 * [**Spanish corpus**](http://www.ciempiess.org/downloads)
 * [**Google Speech Commands**](https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html)
+* [**VoxForge**](http://www.voxforge.org)
 
 ### Speech emotion recognition
 * [**IEMOCAP**](https://sail.usc.edu/iemocap/)
 * [**MELD**](https://affective-meld.github.io/)
 * [**RAVDESS**](https://zenodo.org/record/1188976#.X3-cZnVKiV4)
 * [**MSP-PODCAST**](https://ecs.utdallas.edu/research/researchlabs/msp-lab/MSP-Podcast.html)
+* [**SAVEE**](http://kahlan.eps.surrey.ac.uk/savee)
+* [**CREMA-D**](https://github.com/CheyneyComputerScience/CREMA-D)
 
 ### Analysis
 * [**Spanish Confusions Corpus**](http://laslab.org/resources/confusions/)
