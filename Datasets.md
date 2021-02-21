@@ -13,6 +13,7 @@
 * [**MSP-PODCAST**](https://ecs.utdallas.edu/research/researchlabs/msp-lab/MSP-Podcast.html)
 * [**SAVEE**](http://kahlan.eps.surrey.ac.uk/savee)
 * [**CREMA-D**](https://github.com/CheyneyComputerScience/CREMA-D)
+* [**EMODB**](https://www.kaggle.com/piyushagni5/berlin-database-of-emotional-speech-emodb)
 
 ### Analysis
 * [**Spanish Confusions Corpus**](http://laslab.org/resources/confusions/)
