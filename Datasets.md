@@ -9,6 +9,7 @@
 ### Speech emotion recognition
 * [**CREMA-D**](https://github.com/CheyneyComputerScience/CREMA-D)
 * [**EMODB**](https://www.kaggle.com/piyushagni5/berlin-database-of-emotional-speech-emodb)
+* [**eNTERFACE**](http://www.enterface.net/enterface05/docs/results/databases/project2_database.zip)
 * [**IEMOCAP**](https://sail.usc.edu/iemocap/)
 * [**KEIO-ESD**](http://research.nii.ac.jp/src/en/Keio-ESD.html)
 * [**LSSED**](https://github.com/tobefans/LSSED)
