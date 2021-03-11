@@ -10,6 +10,7 @@
 * [**CREMA-D**](https://github.com/CheyneyComputerScience/CREMA-D)
 * [**EMODB**](https://www.kaggle.com/piyushagni5/berlin-database-of-emotional-speech-emodb)
 * [**IEMOCAP**](https://sail.usc.edu/iemocap/)
+* [**KEIO-ESD**](http://research.nii.ac.jp/src/en/Keio-ESD.html)
 * [**MELD**](https://affective-meld.github.io/)
 * [**MSP-PODCAST**](https://ecs.utdallas.edu/research/researchlabs/msp-lab/MSP-Podcast.html)
 * [**RAVDESS**](https://zenodo.org/record/1188976#.X3-cZnVKiV4)
