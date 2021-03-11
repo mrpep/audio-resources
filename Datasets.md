@@ -13,6 +13,7 @@
 * [**MELD**](https://affective-meld.github.io/)
 * [**MSP-PODCAST**](https://ecs.utdallas.edu/research/researchlabs/msp-lab/MSP-Podcast.html)
 * [**RAVDESS**](https://zenodo.org/record/1188976#.X3-cZnVKiV4)
+* [**RECOLA**](https://diuf.unifr.ch/main/diva/recola/download.html)
 * [**SAVEE**](http://kahlan.eps.surrey.ac.uk/savee)
 * [**TESS**](https://tspace.library.utoronto.ca/handle/1807/24487)
 
