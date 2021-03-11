@@ -20,6 +20,8 @@
 * [**SAVEE**](http://kahlan.eps.surrey.ac.uk/savee)
 * [**TESS**](https://tspace.library.utoronto.ca/handle/1807/24487)
 
+### Speech enhancement
+* [**MS-SNSD**](https://github.com/microsoft/MS-SNSD#:~:text=Fork%2062-,The%20Microsoft%20Scalable%20Noisy%20Speech%20Dataset%20(MS%2DSNSD)%20is,Ratio%20(SNR)%20levels%20desired.)
 ### Analysis
 * [**Spanish Confusions Corpus**](http://laslab.org/resources/confusions/)
 * [**Atlas interactivo de la entonación del español**](http://prosodia.upf.edu/atlasentonacion/presentacio/presentacio2.html)
