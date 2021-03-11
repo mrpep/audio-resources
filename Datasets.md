@@ -65,6 +65,9 @@
 ### Instruments
 * [**NSYNTH**](https://magenta.tensorflow.org/nsynth)
 
+### Instrument quality
+* [**GoodSounds**](https://www.upf.edu/web/mtg/good-sounds)
+
 ### Tempo estimation
 * [**GiantSteps**](https://github.com/GiantSteps/giantsteps-tempo-dataset)
 
