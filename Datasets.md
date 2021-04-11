@@ -88,6 +88,7 @@
 ### Room impulse responses
 
 * [**BIRD**](https://github.com/FrancoisGrondin/BIRD)
+* [**MIT IR Survey Database**](https://mcdermottlab.mit.edu/Reverb/IR_Survey.html)
 
 ### Noises
 
