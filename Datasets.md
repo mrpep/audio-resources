@@ -51,6 +51,7 @@
 
 ### Tagging
 * [**Magna tag a tune**](http://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset)
+* [**Melon Playlist Dataset**](https://mtg.github.io/melon-playlist-dataset)
 
 ### Annotation (MIDI+Audio)
 * [**GuitarSet**](https://guitarset.weebly.com/)
