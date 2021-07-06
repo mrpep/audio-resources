@@ -117,7 +117,7 @@
 * [**SINS**](https://github.com/KULeuvenADVISE/SINS_database)
   - [Dev-set for DCASE2018-Task5](https://zenodo.org/record/1247102#.XxIhlHVKjs0)
   - [Eval-set for DCASE2018-Task5](https://zenodo.org/record/1964758)
-  - [Epic-Kitchen 100](https://epic-kitchens.github.io/2021)
+* [**Epic-Kitchen 100**](https://epic-kitchens.github.io/2021)
   
 ### Birds
 * **freefield1010**
