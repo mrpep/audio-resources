@@ -106,6 +106,8 @@
 * [**ESC-50**](https://github.com/karolpiczak/ESC-50)
 * [**ESC-US**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDEPUT)
 * [**MUSAN**](https://www.openslr.org/17/) Differentiate music, speech and noise
+* [**VGGSound**](https://www.robots.ox.ac.uk/~vgg/data/vggsound/)
+* 
 
 #### Mixtures
 * [**Free Universal Sound Separation (FUSS)**](https://zenodo.org/record/3694384#.XxJP8XVKjs0)
@@ -115,6 +117,7 @@
 * [**SINS**](https://github.com/KULeuvenADVISE/SINS_database)
   - [Dev-set for DCASE2018-Task5](https://zenodo.org/record/1247102#.XxIhlHVKjs0)
   - [Eval-set for DCASE2018-Task5](https://zenodo.org/record/1964758)
+  - [Epic-Kitchen 100](https://epic-kitchens.github.io/2021)
   
 ### Birds
 * **freefield1010**
