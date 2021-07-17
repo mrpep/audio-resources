@@ -14,4 +14,7 @@
 * [CDPAM](https://github.com/pranaymanocha/PerceptualAudio/tree/master/cdpam)
 ## **Representation learning**
 ### Speech
-* [S3PRL](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) 
+* [S3PRL](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning)
+
+### Singing Voice Lyrics Alignment
+* [AutoLyrixAlign](https://github.com/chitralekha18/AutoLyrixAlign)
