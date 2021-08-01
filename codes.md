@@ -10,7 +10,8 @@
 ### **Melspectrogram to wave**
 * [Waveglow](https://github.com/NVIDIA/waveglow)
 
-### **Perceptual Losses**
+## **Losses**
+* [Audio losses](https://github.com/csteinmetz1/auraloss)
 * [CDPAM](https://github.com/pranaymanocha/PerceptualAudio/tree/master/cdpam)
 ## **Representation learning**
 ### Speech
