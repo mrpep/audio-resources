@@ -134,5 +134,5 @@
 
 ## Other
 * [**Acoustic materials**](https://www.acousticsphere.com/acoustic-material-properties/?filters=insulation)
-
 * [**Just Noticeable Differences**](http://percepaudio.cs.princeton.edu/icassp2020_perceptual/audio_perception.zip) Paper: https://arxiv.org/abs/2001.04460
+* [**Diagnostic Audio Question Answering**](https://github.com/facebookresearch/daqa)
