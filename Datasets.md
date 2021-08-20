@@ -86,10 +86,15 @@
 * [**MIMII**](https://zenodo.org/record/3384388#.XtCGMnVKg5k)
 * [**ToyADMOS**](https://zenodo.org/record/3351307#.XtCFynVKg5l)
 
-### Captioning
+### Audio Captioning
 
 * [**AudioCaps**](https://audiocaps.github.io/)
 * [**Clotho**](https://zenodo.org/record/3490684#.YPnjz6JKiV4)
+
+## Acoustic Question Answering (AQA)
+* [**Diagnostic Audio Question Answering**](https://github.com/facebookresearch/daqa)
+* [**CLEAR**](https://github.com/IGLU-CHISTERA/CLEAR-dataset-generation)
+
 ### Room impulse responses
 
 * [**BIRD**](https://github.com/FrancoisGrondin/BIRD)
@@ -135,4 +140,3 @@
 ## Other
 * [**Acoustic materials**](https://www.acousticsphere.com/acoustic-material-properties/?filters=insulation)
 * [**Just Noticeable Differences**](http://percepaudio.cs.princeton.edu/icassp2020_perceptual/audio_perception.zip) Paper: https://arxiv.org/abs/2001.04460
-* [**Diagnostic Audio Question Answering**](https://github.com/facebookresearch/daqa)
