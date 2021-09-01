@@ -137,6 +137,9 @@
 * [**BirdVox Datasets**](https://wp.nyu.edu/birdvox/codedata/)
 * [**DCASE2018-Task3 EvalSet**](https://zenodo.org/record/1298604#.XxIvs3VKjs0)
 
+### Animals
+* [**Orchive**](http://orchive.cs.uvic.ca/)
+
 ## Other
 * [**Acoustic materials**](https://www.acousticsphere.com/acoustic-material-properties/?filters=insulation)
 * [**Just Noticeable Differences**](http://percepaudio.cs.princeton.edu/icassp2020_perceptual/audio_perception.zip) Paper: https://arxiv.org/abs/2001.04460
