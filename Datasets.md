@@ -140,7 +140,10 @@
 ### Animals
 * [**Orchive**](http://orchive.cs.uvic.ca/)
 
+### Analog hardware modelling
+* [**LA-2A Compressor**](https://zenodo.org/record/3824876#.YXXY93VKiV4)
+* [**Guitar amplifiers**](https://zenodo.org/record/5211257#.YXL6wu7Q8zQ)
+
 ## Other
 * [**Acoustic materials**](https://www.acousticsphere.com/acoustic-material-properties/?filters=insulation)
 * [**Just Noticeable Differences**](http://percepaudio.cs.princeton.edu/icassp2020_perceptual/audio_perception.zip) Paper: https://arxiv.org/abs/2001.04460
-* [**Nonlinear modelling of guitar amps**](https://zenodo.org/record/5211257#.YXL6wu7Q8zQ)
