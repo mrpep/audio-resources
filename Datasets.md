@@ -143,6 +143,7 @@
 ### Analog hardware modelling
 * [**LA-2A Compressor**](https://zenodo.org/record/3824876#.YXXY93VKiV4)
 * [**Guitar amplifiers**](https://zenodo.org/record/5211257#.YXL6wu7Q8zQ)
+* [**Universal Audio 6176 Vintage Channel Strip + Leslie speaker**](https://zenodo.org/record/3562442#.YXXaH3VKiV4)
 
 ## Other
 * [**Acoustic materials**](https://www.acousticsphere.com/acoustic-material-properties/?filters=insulation)
