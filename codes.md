@@ -1,5 +1,7 @@
 ## **Source Separation**
+## **Speech quality assessment**
 
+* [NISQA](https://github.com/gabrielmittag/NISQA)
 ### **Music Source Separation**
 
 * [Open Unmix](https://sigsep.github.io/open-unmix)
