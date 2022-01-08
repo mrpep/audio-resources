@@ -1,7 +1,4 @@
 ## **Source Separation**
-## **Speech quality assessment**
-
-* [NISQA](https://github.com/gabrielmittag/NISQA)
 ### **Music Source Separation**
 
 * [Open Unmix](https://sigsep.github.io/open-unmix)
@@ -12,9 +9,11 @@
 ### **Melspectrogram to wave**
 * [Waveglow](https://github.com/NVIDIA/waveglow)
 
-## **Losses**
+## **Losses and metrics**
 * [Audio losses](https://github.com/csteinmetz1/auraloss)
 * [CDPAM](https://github.com/pranaymanocha/PerceptualAudio/tree/master/cdpam)
+* [NISQA](https://github.com/gabrielmittag/NISQA)
+
 ## **Representation learning**
 ### Speech
 * [S3PRL](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning)
