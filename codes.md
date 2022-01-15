@@ -4,6 +4,11 @@
 * [Open Unmix](https://sigsep.github.io/open-unmix)
 * [Meta-Tasnet](https://github.com/pfnet-research/meta-tasnet)
 
+## **Speech enhancement**
+
+* [FullSubnet](https://github.com/haoxiangsnr/FullSubNet)
+* [VoiceFixer](https://github.com/haoheliu/voicefixer)
+
 ## **Speech synthesis**
 
 ### **Melspectrogram to wave**
