@@ -137,7 +137,7 @@
   - [Labels](https://ndownloader.figshare.com/files/10853306)
 * [**BirdVox Datasets**](https://wp.nyu.edu/birdvox/codedata/)
 * [**DCASE2018-Task3 EvalSet**](https://zenodo.org/record/1298604#.XxIvs3VKjs0)
-
+* [**Stereo Bird Cocktail Party**](https://www.imageclef.org/BirdCocktailParty2022)
 ### Animals
 * [**Orchive**](http://orchive.cs.uvic.ca/)
 
